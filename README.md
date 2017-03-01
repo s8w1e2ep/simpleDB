@@ -6,5 +6,5 @@ A simpleDB can get, insert, delete.
 jdk 1.8+
 
 ## Execution
-java -jar simpleDB.jar
+```java -jar simpleDB.jar```
 
